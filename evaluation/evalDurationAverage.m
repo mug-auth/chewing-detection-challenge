@@ -1,7 +1,7 @@
-function mtr = evalDurationLoso(metadata, detected)
-% evalDurationLoso Duration-based LOSO evaluation
+function mtr = evalDurationAverage(metadata, detected)
+% evalDurationAverage Duration-based average evaluation
 %
-%   mtr = evalDurationLoso(metadata, detected) performs LOSO
+%   mtr = evalDurationAverage(metadata, detected) performs LOSO
 %   evaluation based on duration. Variable 'detected' is a cell-array
 %   of equal length with 'metadata'. Each cell contains a two-column
 %   matrix. Each row of a table corresponds to a detected snack and
