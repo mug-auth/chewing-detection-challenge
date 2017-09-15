@@ -38,8 +38,10 @@ in [1], also creating a single confusion matrix.
 
 ## 3 References
 
-[1] V.Papapanagiotou; C. Diou; L. Zhou; J. van den Boer; M. Mars;
-A. Delopoulos, "A novel chewing detection system based on PPG, audio
-and accelerometry," in IEEE Journal of Biomedical and Health
-Informatics , vol.PP, no.99, pp.1-1 doi: 10.1109/JBHI.2016.2625271
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7736096&isnumber=6363502
+[1] V. Papapanagiotou, C. Diou, L. Zhou, J. van den Boer, M. Mars and A. Delopoulos, "The SPLENDID chewing detection challenge," 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Jeju Island, South Korea, 2017, pp. 817-820.
+doi: 10.1109/EMBC.2017.8036949
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8036949&isnumber=8036736
+
+[2] V. Papapanagiotou, C. Diou, L. Zhou, J. van den Boer, M. Mars and A. Delopoulos, "A Novel Chewing Detection System Based on PPG, Audio, and Accelerometry," in IEEE Journal of Biomedical and Health Informatics, vol. 21, no. 3, pp. 607-618, May 2017.
+doi: 10.1109/JBHI.2016.2625271
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7736096&isnumber=7920455
