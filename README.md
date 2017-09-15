@@ -17,8 +17,8 @@ in [1]) into eating-events/snacks.
 ## 2 Evaluation functions
 
 Three evaluation functions are provided, correspoding to the three
-evaluation tables of [1]. Each function computes the same five metrics
-also presented in [1]: precision, recall, accuracy, weighted accuracy,
+evaluation tables of [2]. Each function computes the same five metrics
+also presented in [2]: precision, recall, accuracy, weighted accuracy,
 and F1-score. Weighted accuracy is computed using a weight of 6.9, but
 this can be configured in `getMetrics.m`.
 
